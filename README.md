@@ -1,5 +1,8 @@
 # jupyterlab-katex
 
+### WARNING
+**This repository is deprecated. It has been moved to the [jupyter-renderers](https://github.com/jupyterlab/jupyter-renderers) repository**.
+
 An extension for JupyterLab that provides [KaTeX](https://khan.github.io/KaTeX/) rendering for math.
 
 The default LaTeX renderer in JupyterLab uses [MathJax](https://www.mathjax.org/),
